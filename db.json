@@ -1,0 +1,64 @@
+{
+    "statements": [
+      {
+        "id": 17,
+        "date": "11.03.2023",
+        "time": "13:07:34",
+        "product": "course-wordpress",
+        "name": "Роман Карпов",
+        "email": "romen@rambler.ru",
+        "phone": "89103571111",
+        "status": "complete"
+      },
+      {
+        "id": 20,
+        "date": "11.03.2023",
+        "time": "13:12:37",
+        "product": "course-php",
+        "name": "Пётр Куликов",
+        "email": "petr@gmail.com",
+        "phone": "89317953211",
+        "status": "inwork"
+      },
+      {
+        "id": 22,
+        "date": "11.03.2023",
+        "time": "13:14:30",
+        "product": "course-js",
+        "name": "Иван Кузьмин",
+        "email": "ivan@gmail.com",
+        "phone": "89237896577",
+        "status": "inwork"
+      },
+      {
+        "id": 24,
+        "date": "11.03.2023",
+        "time": "21:14:23",
+        "product": "course-php",
+        "name": "Юрий Орлов",
+        "email": "uriy@yandex.ru",
+        "phone": 89359874523,
+        "status": "complete"
+      },
+      {
+        "id": 27,
+        "date": "12.03.2023",
+        "time": "16:15:36",
+        "product": "course-html",
+        "name": "Сергей Бронин",
+        "email": "ivan@gmail.com",
+        "phone": 89237896532,
+        "status": "inwork"
+      },
+      {
+        "id": 30,
+        "date": "12.03.2023",
+        "time": "18:06:54",
+        "product": "course-vue",
+        "name": "Константин Митин",
+        "email": "konst@rambler.ru",
+        "phone": "89004325677",
+        "status": "new"
+      }
+    ]
+  }
